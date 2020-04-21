@@ -1,0 +1,11 @@
+{
+  "name": "mai-starter",
+  "description": "Developers starter theme for Mai Engine 2.0.",
+  "version": "1.0.0",
+  "author": "BizBudding",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maithemewp/mai-starter"
+  },
+  "license": "GPL-2.0-or-later"
+}

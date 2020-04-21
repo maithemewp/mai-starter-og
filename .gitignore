@@ -1,0 +1,9 @@
+.DS_Store
+.git
+.env
+.npmrc
+*.zip
+*.lock
+*lock.json
+vendor
+node_modules
